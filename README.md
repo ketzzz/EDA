@@ -3,7 +3,7 @@
 This section is on Exploratory Data Analysis.
 
 The code scrapes data from online, in this case, from https://www.basketball-reference.com.
-It builds a simple app using streamlit. Within ithe app, we can interact and filter the data we want to view.
+It builds a simple app using streamlit. Within the app, we can interact and filter the data we want to view.
 
 I used Anaconda Prompt to run this line: (make sure streamlit is installed)
 ```
